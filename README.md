@@ -41,7 +41,7 @@ Output:
     "claimed_animal": "dog",
     "claimed_category": "GoldenRetriever",
     "predicted_animal": "dog",
-    "predicted_category": "n02099601-golden_retriever",
+    "predicted_category": "golden_retriever",
     "match": true,
     "confidence": 99.96,
     "decision": "accept"
@@ -492,7 +492,7 @@ Execute
 
     "predicted_animal": "dog",
 
-    "predicted_category": "n02099601-golden_retriever",
+    "predicted_category": "golden_retriever",
 
     "match": true,
 
